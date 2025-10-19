@@ -18,3 +18,17 @@ address: 0x9Ed7fe4c8086010A669a616974ecF4C9E9c97E8c
 
 ## Frontend URL:
 https://speedrunlisk-nextjs-amber.vercel.app/
+
+# Week 3: Indexing & Display
+
+## Frontend URL:
+https://speedrunlisk-nextjs-amber.vercel.app/events
+
+## Events Page Screen:
+<img width="1913" height="906" alt="Screenshot 2025-10-19 174921" src="https://github.com/user-attachments/assets/317759de-70d5-4f0e-9184-54ad73edf795" />
+
+## MyToken:
+address: 0x44b9E0df34e49Ba0E319Ab0d49921658D47074A7
+
+## MyNFT:
+address: 0x9Ed7fe4c8086010A669a616974ecF4C9E9c97E8c
